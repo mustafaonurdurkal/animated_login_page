@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280340560821",
+    "project_id": "flutter-fest-firebase-20404",
+    "storage_bucket": "flutter-fest-firebase-20404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280340560821:android:a7c2e4c7c632c7481277fc",
+        "android_client_info": {
+          "package_name": "com.example.animated_login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280340560821-gjlve85flli2t4te66rbijf4ilcom67t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmHSTMxiykb5nDM3BTs-EB8yDr1n1S5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280340560821-gjlve85flli2t4te66rbijf4ilcom67t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
